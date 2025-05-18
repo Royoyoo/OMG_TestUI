@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63a12cd753263ae48b856ba75c5f74ba, type: 3}
+  m_Name: LevelSelect_Module_Config
+  m_EditorClassIdentifier: 
+  assetsReferencesById: []
+  defaultPicture: {fileID: 2800000, guid: 23b47d2eacf89bc4a90d579e8d557fd7, type: 3}
+  piecesCounts: 24000000400000006400000090000000c400000000010000
+  defaultPieceCount: 64
+  startCoins: 500
+  coinsToStartLevel: 100
